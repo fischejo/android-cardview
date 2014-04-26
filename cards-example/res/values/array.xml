@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+		<string-array name="hello_worlds">
+			<item>Hello World!</item>
+	        <item>Hallo Welt!</item>
+	        <item>Hola mundo!</item>
+	        <item>Servus-Woid!</item>
+	        <item>Olá Mundo!</item>
+	        <item>Merhaba dünya!</item>
+	        <item>Helló, világ!</item>
+	        <item>Kaixo mundua!</item>
+	        <item>Sveika, pasaule!</item>
+		 </string-array>
+		 
+		
+</resources>
